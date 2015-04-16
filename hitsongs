@@ -1,0 +1,12 @@
+{"message":"Hit songs in this week.",
+"list":[
+{"id":1, "title":"Magic", "singer" : "Wine Su Khine Thein", "album" : "Magic", "summary" : "This is about the love of one women...", "link" : "www.google.com" , "comment" : "I gave title name of the album to Magic because this is my favourite song in this album." , "type" : "pop"},
+{"id":2, "title":"About that I hate you", "singer" : "Thiri Swe", "album" : "One Time", "summary" : "This is about the love of one women...", "link" : "www.google.com" , "comment" : "This is one of my favoriate pop songs." , "type" : "pop"},
+{"id":3, "title":"The result of love", "singer" : "Wine Su Khine Thein", "album" : "Magic", "summary" : "This is about the final result of one love story...", "link" : "www.google.com" , "comment" : "Even though some people can meet with true love, they cannot love forever. I sing this song for those people." , "type" : "pop"},
+{"id":4, "title":"One hope", "singer" : "Ni Ni Khin Zaw", "album" : "Aeroplane", "summary" : "This is about the love of one women...", "link" : "www.google.com" , "comment" : "When your heart is broken, you will feel pain. But please try again with this song." , "type" : "pop"},
+{"id":5, "title":"Aeroplane", "singer" : "Ni Ni Khin Zaw", "album" : "Aeroplane", "summary" : "This is about the love of one women...", "link" : "www.google.com" , "comment" : "I am sure that this is good song for a party. You would like to dance and have a great time with this song.", "type" : "pop"},
+{"id":6, "title":"Winter breeze", "singer" : "May Thy", "album" : "Winter breeze", "summary" : "This is about one broken heart women...", "link" : "www.google.com" , "comment" : "Some people enter to your life and leave you like a breeze. But please remember that many good people are remaining to meet with you.", "type" : "pop"},
+{"id":7, "title":"Rain at Innlay", "singer" : "Ni Ni Khin Zaw", "album" : "Aeroplane", "summary" : "This is about story of one man who live in Innlay...", "link" : "www.google.com" , "comment" : "Do you want to visit Innlay after listening this song? Let's enjoy the beauty of Innlay by listening this songs.", "type" : "country"},
+{"id":8, "title":"Friends", "singer" : "Sai Sai Khing Hlaing", "album" : "Friends", "summary" : "In one life, we have a lot of friends. When we become adult, we separate each other. Sometimes we cannot meet until we die. But we ...", "link" : "www.google.com" , "comment" : "Please enjoy your environment. Please enjoy your surrounding. Please love your life.", "type" : "hit hop"}
+]
+}
